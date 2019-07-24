@@ -19,7 +19,7 @@ EXTERNAL_APPS = [
 INTERNAL_APPS = [
     'seller',
     'comission',
-    'vendas',
+    'sales',
     'notificacoes',
 ]
 
